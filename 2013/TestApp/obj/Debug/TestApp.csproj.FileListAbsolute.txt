@@ -1,0 +1,8 @@
+C:\Work\BindingRedirectTest\TestApp\bin\Debug\TestApp.exe.config
+C:\Work\BindingRedirectTest\TestApp\bin\Debug\TestApp.exe
+C:\Work\BindingRedirectTest\TestApp\bin\Debug\TestApp.pdb
+C:\Work\BindingRedirectTest\TestApp\bin\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\TestApp\bin\Debug\UsefulStuff.pdb
+C:\Work\BindingRedirectTest\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Work\BindingRedirectTest\TestApp\obj\Debug\TestApp.exe
+C:\Work\BindingRedirectTest\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,10 @@
+C:\Work\BindingRedirectTest\UsefulStuff11\bin\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\UsefulStuff11\bin\Debug\UsefulStuff.pdb
+C:\Work\BindingRedirectTest\UsefulStuff11\obj\Debug\UsefulStuff.csprojResolveAssemblyReference.cache
+C:\Work\BindingRedirectTest\UsefulStuff11\obj\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\UsefulStuff11\obj\Debug\UsefulStuff.pdb
+C:\Work\BindingRedirectTest\UsefulStuff21\bin\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\UsefulStuff21\bin\Debug\UsefulStuff.pdb
+C:\Work\BindingRedirectTest\UsefulStuff21\obj\Debug\UsefulStuff.csprojResolveAssemblyReference.cache
+C:\Work\BindingRedirectTest\UsefulStuff21\obj\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\UsefulStuff21\obj\Debug\UsefulStuff.pdb

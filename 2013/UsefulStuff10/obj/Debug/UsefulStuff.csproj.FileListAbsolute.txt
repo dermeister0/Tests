@@ -1,0 +1,5 @@
+C:\Work\BindingRedirectTest\DeveloperLibs\UsefulStuff.dll
+C:\Work\BindingRedirectTest\DeveloperLibs\UsefulStuff.pdb
+C:\Work\BindingRedirectTest\UsefulStuff10\obj\Debug\UsefulStuff.csprojResolveAssemblyReference.cache
+C:\Work\BindingRedirectTest\UsefulStuff10\obj\Debug\UsefulStuff.dll
+C:\Work\BindingRedirectTest\UsefulStuff10\obj\Debug\UsefulStuff.pdb
