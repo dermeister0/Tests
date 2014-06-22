@@ -1,3 +1,5 @@
 *.suo
 */bin
 */obj
+2014/EFTransactions/bin/
+2014/EFTransactions/obj/
