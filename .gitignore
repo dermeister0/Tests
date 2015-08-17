@@ -1,6 +1,6 @@
 *.suo
-*/bin
-*/obj
-2014/EFTransactions/bin/
-2014/EFTransactions/obj/
+*.user
+**/obj/
+**/bin/
 2014/EFTransactions/packages/
+2015/ReferencePlatforms/Test/
